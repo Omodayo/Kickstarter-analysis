@@ -8,5 +8,5 @@ The purpose of this kickstarter project is to help set Louise up for success by 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on launch dates
 ### Analysis of Outcomes Based on Goals
-### Analysis Challenges
+### Challenges and Difficulties Encountered
 
