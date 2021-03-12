@@ -1,5 +1,4 @@
 # Kickstarter-analysis
-Performing analysis on kickstarter data to uncover trends
 ## Project Overview
 ### Backgroud and Purpose
 Louise is an up and coming playwright with a new play named "Fever". Louise is looking for a way to fund this play by starting a crowd funding campaign.
@@ -13,6 +12,7 @@ This particular analysis is to show relationship between outcomes and launch mon
 * The pivot table can be filtered based on "Parent Category" and "Years."
 * Column labels is then filtered to show only "successful," "failed," and "canceled."
 * A line chart is created from the pivot table to show the relationship between outcomes and launch month
+- ![Image_Name)
 ### Analysis of Outcomes Based on Goals
 This particular analysis
 ### Challenges and Difficulties Encountered
