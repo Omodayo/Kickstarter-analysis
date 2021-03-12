@@ -12,7 +12,8 @@ This particular analysis is to show relationship between outcomes and launch mon
 * The pivot table can be filtered based on "Parent Category" and "Years."
 * Column labels is then filtered to show only "successful," "failed," and "canceled."
 * A line chart is created from the pivot table to show the relationship between outcomes and launch month
-- ![Thearter_Outcome_vs_Launch]
+
+- ![Thearter_Outcome_vs_Launch](https://github.com/Omodayo/Kickstarter-analysis/blob/main/Theater_Outcome_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 This particular analysis
 ### Challenges and Difficulties Encountered
