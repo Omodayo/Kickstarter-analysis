@@ -7,12 +7,13 @@ She has an estimated budget in mind, but she is hesitant about jumping both feet
 The purpose of this kickstarter project is to help set Louise up for success by analysing historical excel data for past campaigns, to find if there are any specific factors that make a crowd funding campaign successful.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on launch dates
-This particular analysis is to show a trend of time of the year a campaign is most likely to fail, be successful or canceled besed on outcome of past campaings and timingof those campaigns. This is done by following the steps below;
+This particular analysis is to show a trend of time of the year a campaign is most likely to fail, be successful or canceled based on outcome of past campaings and timing of those campaigns. This is to help Louise make an informed decision, when to time her campign for most chances of successd by following the steps below;
 * A pivot table from the KickStarter worksheet is created, and placed in a new sheet labeled "Theater Outcomes by Launch Date."
 * The pivot table shows months (i.e. time in a year) on its rows, and outcomes (i.e. successful/failed/canceled/live) of campaigns in its columns
 * The pivot table can be filtered based on "Parent Category" and "Years."
 * Column labels is then filtered to show only "successful," "failed," and "canceled."
-* This is
+* A line chart is created from the pivot table to show the relationship between outcomes and launch month
 ### Analysis of Outcomes Based on Goals
+This particular analysis
 ### Challenges and Difficulties Encountered
 
