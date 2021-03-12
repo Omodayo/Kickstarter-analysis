@@ -23,7 +23,7 @@ This particular analysis is done to visualize relationship between goal dollar a
 * Percentage of outcomes are then calculated in Column "F", "G" and "H"
 * A line chart is created to visualize the relationship between the goal-amount ranges and the percentage of outcomes
 
-- ![Outcomes_vs_Goals] ()
+- ![Outcomes_vs_Goals](https://github.com/Omodayo/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
