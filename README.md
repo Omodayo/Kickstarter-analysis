@@ -36,5 +36,5 @@ This particular analysis is done to visualize relationship between goal dollar a
 
 * One of the limitations of these data is the boolean nature of the "Staff_pick" and "spotlight" colums whic makes it impossible to determine their relation with the outcomes> also it would help to know the demographic of backers for each campaign to determine what impact it has on the outcome
 
-*
+* We could create a line graph of relationship between number of backers and outcomes, as well as relatioship between average donations and outcomes
 
