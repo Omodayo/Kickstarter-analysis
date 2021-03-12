@@ -29,4 +29,5 @@ This particular analysis is done to visualize relationship between goal dollar a
 ### Challenges and Difficulties Encountered
 * Due to the large size of the data available, one of the challenges encountered is how to ensure that the analysis is not skewed one way or another because of outliers. This obstacle was overcomed by using a box-plot to weed out any outliers
 * Another challenge is how to filter the data to show only relevat data that are peculiar to the nature of Louise play. This is overcome by filtering the "parent category"  and "Subcategory" down to reflect only data relevant to Louise
+## Results
 
