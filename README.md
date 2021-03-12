@@ -14,6 +14,7 @@ This particular analysis is to show relationship between outcomes and launch mon
 * A line chart is created from the pivot table to show the relationship between outcomes and launch month
 
 - ![Thearter_Outcome_vs_Launch](https://github.com/Omodayo/Kickstarter-analysis/blob/main/Theater_Outcome_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 This particular analysis is done to visualize relationship between goal dollar amount (i.e. proposed budget) of campaigns and their outcomes to help Louise set a goal amount for her crwod funding campaing that will most likely provide her with the most chances at success by taken the steps below;
 * A new sheet in the KickStarter worksheet, labeled "Outcomes Based on Goals", and new columns are created to help with the analysis
