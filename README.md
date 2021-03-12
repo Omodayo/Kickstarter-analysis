@@ -31,5 +31,10 @@ This particular analysis is done to visualize relationship between goal dollar a
 * Another challenge is how to filter the data to show only relevat data that are peculiar to the nature of Louise play. This is overcome by filtering the "parent category"  and "Subcategory" down to reflect only data relevant to Louise
 ## Results
 * The "Outcomes based on launch dates" analysis shows that May is the best month to consider for timing to have best chances of success followed by June and July respectively. Also chances of failing or get cancelled are are practically equal in any month as others, hence ther must be another factor impacting outcomes other that time of the year
+
 * The "Outcomes Based on Goals" analysis shows that goal expectations under $5000 have about 75% chance of success
+
+* One of the limitations of these data is the boolean nature of the "Staff_pick" and "spotlight" colums whic makes it impossible to determine their relation with the outcomes> also it would help to know the demographic of backers for each campaign to determine what impact it has on the outcome
+
+*
 
