@@ -7,4 +7,6 @@ She has an estimated budget in mind, but she is hesitant about jumping both feet
 The purpose of this kickstarter project is to help set Louise up for success by analysing historical excel data for past campaigns, to find if there are any specific factors that make a crowd funding campaign successful.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on launch dates
+### Analysis of Outcomes Based on Goals
+### Analysis Challenges
 
