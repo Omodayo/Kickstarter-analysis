@@ -1,5 +1,5 @@
 # Kickstarter-analysis
 ## Project Overview
-###Backgroud
-###Purpose
+### Backgroud
+### Purpose
 Performing analysis on kickstarter data to uncover trends
